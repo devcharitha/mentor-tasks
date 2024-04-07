@@ -1,0 +1,28 @@
+.add-task{
+    height: 100vh;
+    align-content: center;
+
+}
+.task-container{
+    height: 90vh;
+    border-radius: 10px;
+}
+.search-bar1{
+    font-style:Arial, Helvetica, sans-serif;
+}
+.search-bar2{
+    height: 5vh;
+}
+.search-button{
+    border: 1px solid black;
+    color: white;
+}
+.search1{
+    align-items: center;
+}
+.output{
+    box-shadow: 2px 2px 2px;
+}
+.checkIcon{
+    margin-right: 5px;
+}

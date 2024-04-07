@@ -1,0 +1,26 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 5px;
+    padding: 0;
+}
+header{
+    background-color:lightblue;
+    padding: 10px;
+    text-align: center;
+}
+#list{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+#list #projects{
+    background-color:lightgreen;
+    padding: 10px 15px;
+}
+#list .info{
+    background-color:lightcoral;
+    padding: 10px 15px;
+}
+button:hover{
+    background-color: gray;
+}
