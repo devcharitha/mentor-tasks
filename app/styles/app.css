@@ -1,1 +1,14 @@
-/* Ember supports plain CSS out of the box. More info: https://cli.emberjs.com/release/advanced-use/stylesheets/ */
+.resume{
+    font-family:Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.167;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+h1{
+    display: block;
+    margin-block-start: 0.70em;
+    margin-block-end: 0.70em;
+    /* margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+    font-weight: bold;
+}
