@@ -1,0 +1,93 @@
+/* create hbs */
+.suggestion{
+    margin-top: 20px;
+    display: flex;
+}
+.create-head{
+    /* margin: 0px; */
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.235;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding-top: 11.2px;
+    font-size: 2.0243rem;
+}
+.create-cnt{
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1.125rem;
+    line-height: 1.6;
+    letter-spacing: 1.5px
+}
+.create-dep{
+    margin-left: 25px;
+}
+/* download */
+.download{
+    margin-top: 20px;
+    display: flex;
+}
+.correction-icon{
+    width: 60px;
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+    margin-left: 20px;
+    font-size: 53px;
+    display: inline-block;
+    height: 3rem;
+}
+
+.free-download{
+    /* margin: 0px; */
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.235;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding-top: 11px;
+    font-size: 2rem;
+}
+.free-cnt{
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1.125rem;
+    line-height: 1.6;
+    letter-spacing: 1.5px
+}
+.download-dep{
+    margin-left: 25px;
+}
+/* template */
+.templates{
+    display: flex;
+    margin-top: 20px;
+}
+.corrects-icon{
+    width: 80px;
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+    margin-left: 30px;
+    font-size: 53px;
+    display: inline-block;
+    height: 3rem;
+}
+.template-head{
+    /* margin: 0px; */
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.235;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding-top: 11px;
+    font-size: 2rem;
+}
+.temp-cnt{
+    margin: 16px 0px 0px;
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1.125rem;
+    line-height: 1.6;
+    letter-spacing: 1.5px
+
+}
+.temp-dep{
+    margin-left: 25px;
+}
+.suggestions{
+    margin-top: 20px;
+}

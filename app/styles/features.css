@@ -1,0 +1,233 @@
+/* features */
+.imgs{
+    display: inline;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 15px;
+}
+.AutoAwesomeMotionIcon{
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 1rem;
+}
+.features{
+    margin: 200px 0px 0px;
+    margin-left: 100px;
+}
+.format{
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-left: 55px;
+
+}
+.auto-icon{
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+}
+/* post icon */
+.PostAddIcon{
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 1rem;
+}
+.builder{
+    display: inline;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 15px;
+}
+.browser{
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-left: 60px;
+}
+.post-icon{
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+}
+/* local icon */
+.LocalActivityIcon{
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    margin-left: 20px
+}
+.phrase{
+    display: inline;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 15px;
+}
+.ai{
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-left: 55px;
+}
+.activity{
+    margin: 42px 0px 0px;
+    margin-left: 100px;
+
+}
+.local-icon{
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+}
+/* auto icon */
+.AutoAwesomeIcon{
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    margin-left: 20px
+}
+.letters{
+    margin: 42px 0px 0px;
+    margin-left: 100px;
+
+}
+.generator{
+    display: inline;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 15px;
+}
+.ai-tool{
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-left: 55px;
+}
+.awesome{
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+}
+/* cover letter */
+.HistoryEduIcon{
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    margin-left: 20px
+}
+.receiption{
+    margin: 42px 0px 0px;
+    margin-left: 100px;
+
+}
+.cover{
+    display: inline;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 15px;
+}
+.letter{
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-left: 55px;
+}
+.history-icon{
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+}
+/* linkedin icon */
+.LinkedInIcon{
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    margin-left: 20px
+}
+.linkdin-head{
+    display: inline;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 15px;
+}
+.linkdin-cv{
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-left: 55px;
+}
+.linkedin-icon{
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+}
+/* special - resume */
+.ReceiptIcon{
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    margin-left: 20px
+}
+.profession{
+    display: inline;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 15px;
+    text-decoration: left;
+}
+.job-application{
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-left: 55px;
+}
+.receiption-icon{
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+}
+/* import */
+.FolderSpecialIcon{
+    font-family: Poppins, "sans-serif", "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    margin-left: 20px
+}
+.pre-built{
+    display: inline;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 15px;
+    text-decoration: left;
+}
+.built-desp{
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    display: block;
+    margin-left: 55px;
+}
+.folder-icon{
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+}
+.creation{
+    margin: 100px 0px 0px;
+    margin-left: 30px;
+}
+.correct-icon{
+    width: 60px;
+    fill: currentcolor;
+    color: rgb(255, 152, 0);
+    margin-left: 20px;
+    font-size: 53px;
+    display: inline-block;
+    height: 3rem;
+}
